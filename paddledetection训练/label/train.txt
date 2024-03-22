@@ -1,0 +1,2 @@
+./JPEGImages/hard_hat_workers0.png ./Annotations/hard_hat_workers0.xml
+./JPEGImages/hard_hat_workers1.png ./Annotations/hard_hat_workers1.xml
